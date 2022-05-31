@@ -22,7 +22,8 @@ API yang digunakan dari web https://www.omdbapi.com
 https://expo.dev/artifacts/06a9a3c2-80b4-4db2-92e3-bbefc5a83165
 
 # Anggota Kelompok 
-- Fahlevi Ikhsanur Rizal (119140128)
-- Muhammad Yahya Ayyashy Mujahidan (119140134)
-- Jaya Megelar Cakrawarty (119140227)
-- Ilham Nofri Yandra (119140133)
+
+- Fahlevi Ikhsanur Rizal (119140128) (Akun Github : Leviansky)
+- Muhammad Yahya Ayyashy Mujahidan (119140134) (Akun Github : Yxyyash )
+- Jaya Megelar Cakrawarty (119140227) (Akun Github : JayaMegelar)
+- Ilham Nofri Yandra (119140133) (Akun Github : mayonice1424)
