@@ -24,3 +24,4 @@ https://expo.dev/artifacts/06a9a3c2-80b4-4db2-92e3-bbefc5a83165
 # Anggota Kelompok 
 - Fahlevi Ikhsanur Rizal (119140128)
 - Muhammad Yahya Ayyashy Mujahidan (119140134)
+- Jaya Megelar Cakrawarty (119140227)
